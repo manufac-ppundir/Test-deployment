@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "landing-pages-29977",
+      "target": "app1",
       "public": "apps/app1",
       "ignore": [
         "firebase.json",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "target": "app2-184b7",
+      "target": "app2",
       "public": "apps/app2",
       "ignore": [
         "firebase.json",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "target": "app3-c4b68",
+      "target": "app3",
       "public": "apps/app3",
       "ignore": [
         "firebase.json",
