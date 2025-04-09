@@ -1,5 +1,21 @@
 {
   "projects": {
     "default": "landing-pages-29977"
-  }
+  },
+  "targets": {
+    "landing-pages-29977": {
+      "hosting": {
+        "app2": [
+          "app2"
+        ],
+        "app1": [
+          "app1"
+        ],
+        "app3": [
+          "app3"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
