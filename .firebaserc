@@ -5,12 +5,13 @@
   "targets": {
     "landing-pages-29977": {
       "hosting": {
+        "app1": [
+          "landing-pages-29977"
+        ],
         "app2": [
-          "app2",
           "app2-184b7"
         ],
         "app3": [
-          "app3",
           "app3-c4b68"
         ]
       }
